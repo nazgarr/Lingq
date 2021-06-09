@@ -66,42 +66,64 @@ AND/OR
 
 Most people found themselves in the second group.
 In those days you needed to find whatever materials you could get your hands on. Any book, any video, any pamphlet, map, really anything. 
+
 Then you needed an English to foreign language dictionary side by side with what you were reading to even know what you were reading.
+
 Then you needed to make flashcards to push your brain to remember what you read. 
  You ABSORBED the content. Become induced by it. 
+ 
 And then and only then were you even remotely “ready” to speak: 
 That is, if you had a tutor or native speaker. 
 
 The problem they did not foresee was this: 
 Who could read something that is way above their level of understanding? After all, progress made was progress alone. There was no one you could ask.
+
 What if it was way below? Too easy? Reread it again? 
+
 And most importantly, who would WANT to read something that doesn’t interest them in the first place? 
+
 Isn’t that the reason why we learn a language? Because we WANT to? Because it was interesting and fun? 
 
 ### Some Progress
 
 These days we’re privileged to stand on the shoulders of language learners and scientists who came before us. 
 Technology and science advances over time and new applications and platforms to learn a foreign language have been made. 
+
 Yet ask yourself one question, 
+
 For all of the things we have right now, why can’t we ALL speak a foreign language? 
+
 With the power of the computer, language learners come across beginner and introductory programs. You may know some of them. Some of them existed before us, and they certainly achieved a goal. 
+
 Their goal. 
+
 But we know the truth.
+
 The truth is these beginner and introductory materials are just that. Beginner. Introductory.
+
 They are not meant to take you further to fluency. 
+
 They are not going to get you to touring the local markets of Cambodia. 
+
 They are not going to get you to eating the delicate chocolates in Switzerland.
+
 In fact, we would argue that some of these applications DON’T want you to get there but want to keep you on the wheel, chasing after your illusion of progress on THEIR platform.
+
 And that’s why we created Lingq. 
 
 ### A Change for the Modern Era 
 Lingq is different. None of them can do what we do best: we remove the barrier that stops intermediate learners from progressing to the next level. 
+
 Lingq is a powerful language learning application that allows you to take ANY written and accompanying audio content in a foreign language and learn it leveraging today’s cutting-edge technology with today’s pedagogical expertise. 
+
 How?
+
 Thank the founder of Lingq, 50+ year language learner, polyglot, translator, and Canadian diplomat Steve Kaufmann. 
-The Kaufmann Movement
+
+### The Kaufmann Movement
 Fluent in 20 languages including English, Spanish, Mandarin, Japanese, French, Italian, and many more, 
 We took what Steve learned over his 50 year journey learning languages and made it a reality for the whole world to use, 
+
 And what he learned was this: 
 With greater consumption of language through reading and listening comes fluency. 
 
