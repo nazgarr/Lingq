@@ -34,13 +34,18 @@ And so I asked myself, why doesn’t the language learning community talk about 
 
 ### The Language Learning Romantic
 People love talking about the languages they’re learning, what they’re going to do in Italy, who their going to meet in France, what they’re going to eat in their favorite restaurant in Germany, and how Spanish changed their lives.
+
 And that’s awesome!
+
 We love how something like language can give us new experiences and bring us all together.
 
 But they don’t want to talk about the underbelly, the voice in the back of everyone’s heads: The great challenge it actually is to get there and achieve fluency.
+
 Sure, we can hear a flash of small phrases and say a couple words in the heat of passion. 
+
 But let’s be real.
- It’s not going to take you to the elegant restaurants in France,
+
+It’s not going to take you to the elegant restaurants in France,
 The scenic outskirts of China,
 The picturesque alleyways of Italy,
 The charming locals in Pakistan,
@@ -53,9 +58,9 @@ We can never find the materials that we need the most.
 
 So let’s cut back on the fat and see what people used to do to progress.
 
-The Old Days
+### The Old Days
 When people wanted to learn a language back then, you had to do one of two things: 
-1.Have a tutor
+1. Have a tutor
 AND/OR 
 2. Have language learning materials
 
