@@ -154,18 +154,29 @@ So we’re here to bring it down.
 ### Goals
 
 And so we made it our mission to bring fellow language learners to the one goal that we all sought for the most but could never get from any of the programs you see today: Target Language Saturation. 
+
 What? 
+
 Target Language Saturation or TLS for short.
+
 TLS is simple:
 It is nothing more than increasing your vocabulary.  
+
 Really. That’s it. 
+
 But think about it. That’s exactly what reading does for language learners. 
+
 It’s amazing to think that for all the language learning programs, opinions, methodologies, and pedagogies, none of them could satisfy this one need like we can. 
-You may be hesitant about TLS, and that is understandable, but just trust me for now that this is your key to fluency. If you can do this one thing you won’t regret it. I will explain everything. For now, just read onwards the features of Lingq, and think about what they will do for you and how they factor in with TLS. 
+
+You may be hesitant about TLS, and that is understandable, but just trust me for now that this is your key to fluency. 
+
+If you can do this one thing you won’t regret it. 
+
+I will explain everything. For now, just read onwards the features of Lingq, and think about what they will do for you and how they factor in with TLS. 
 
 ### The Power of Lingq
 
-Lingq’s content management system provides for easy uploads of ANY text file in 15+ different foreign languages and accompanying audio files in any format, 
+Lingq's content management system provides for easy uploads of ANY text file in 15+ different foreign languages and accompanying audio files in any format, 
 and it includes 30+ Lingq introductory lessons with text and native voice actors for easy learning and introduction to the system.
 No more being a victim to circumstance of what you get your hands on. 
 YOU get to choose what you want to read and what YOU want to listen to. 
@@ -175,10 +186,14 @@ All I have to do is go on their website, copy and paste the text that I want, an
 Done. 
 
 The heart of Lingq is its learning environment that includes official and community dictionaries that translate both WORD for WORD, and PHRASAL for the smoothest translations you will find anywhere on the fly.
+
 Select any word, any phrase, and what comes out are translations written and SPOKEN at command. 
 No more contextual or informal ambiguities. Every word, space, and punctuation mark is accounted for in BOTH dictionaries. 
+
 Just keep forgetting a word that you keep coming across over and over in your text? Lingq’s review system allows you to rank your words that just don’t stick and put them into Lingq’s rankable flash cards, Questionnaire, and/or self-makeable questions for the most versatile and most efficient “study” session you will have in your language learning journey, making sure you learn words YOU want to learn and progress bottom line with a counter of all total words learned. 
+
 Living breathing forum with other Lingqers for questions, answers, learning pedagogy, and advice, including advice from active member and founder of Lingq himself, Steve.
+
 Multifaceted language platform with 15+ languages for when you get the itch to learn a new language!
 
 ### Ok so Back to TLS 
