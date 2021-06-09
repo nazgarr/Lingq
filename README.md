@@ -59,6 +59,7 @@ We can never find the materials that we need the most.
 So let’s cut back on the fat and see what people used to do to progress.
 
 ### The Old Days
+
 When people wanted to learn a language back then, you had to do one of two things: 
 1. Have a tutor
 AND/OR 
@@ -112,6 +113,7 @@ In fact, we would argue that some of these applications DON’T want you to get 
 And that’s why we created Lingq. 
 
 ### A Change for the Modern Era 
+
 Lingq is different. None of them can do what we do best: we remove the barrier that stops intermediate learners from progressing to the next level. 
 
 Lingq is a powerful language learning application that allows you to take ANY written and accompanying audio content in a foreign language and learn it leveraging today’s cutting-edge technology with today’s pedagogical expertise. 
@@ -121,6 +123,7 @@ How?
 Thank the founder of Lingq, 50+ year language learner, polyglot, translator, and Canadian diplomat Steve Kaufmann. 
 
 ### The Kaufmann Movement
+
 Fluent in 20 languages including English, Spanish, Mandarin, Japanese, French, Italian, and many more, 
 We took what Steve learned over his 50 year journey learning languages and made it a reality for the whole world to use, 
 
@@ -178,6 +181,7 @@ I will explain everything. For now, just read onwards the features of Lingq, and
 
 Lingq's content management system provides for easy uploads of ANY text file in 15+ different foreign languages and accompanying audio files in any format, 
 and it includes 30+ Lingq introductory lessons with text and native voice actors for easy learning and introduction to the system.
+
 No more being a victim to circumstance of what you get your hands on. 
 YOU get to choose what you want to read and what YOU want to listen to. 
 
@@ -190,7 +194,11 @@ The heart of Lingq is its learning environment that includes official and commun
 Select any word, any phrase, and what comes out are translations written and SPOKEN at command. 
 No more contextual or informal ambiguities. Every word, space, and punctuation mark is accounted for in BOTH dictionaries. 
 
-Just keep forgetting a word that you keep coming across over and over in your text? Lingq’s review system allows you to rank your words that just don’t stick and put them into Lingq’s rankable flash cards, Questionnaire, and/or self-makeable questions for the most versatile and most efficient “study” session you will have in your language learning journey, making sure you learn words YOU want to learn and progress bottom line with a counter of all total words learned. 
+Just keep forgetting a word that you keep coming across over and over in your text? 
+
+Lingq’s review system allows you to rank your words that just don’t stick and put them into Lingq’s rankable flash cards, Questionnaire, and/or self-makeable questions for the most versatile and most efficient “study” session you will have in your language learning journey.
+
+Making sure you learn words YOU want to learn and progress bottom line with a counter of all total words learned. 
 
 Living breathing forum with other Lingqers for questions, answers, learning pedagogy, and advice, including advice from active member and founder of Lingq himself, Steve.
 
@@ -201,41 +209,64 @@ Multifaceted language platform with 15+ languages for when you get the itch to l
 As you can see, the features will get you to TLS. 
 It really maximizes the efficiency of learning vocabulary fast. 
 And we mean really fast, faster than anyone that came before us. 
+
 For the longest time, language learners before us have been stumped on that one factor of language learning, the one factor that stops us from fluency:
  Vocabulary. Not the systems of grammar or speaking.
+ 
 And so it is no surprise that beginner and introductory programs for language learners only teach that: grammar, the system of the language. It’s easy and very profitable for them…
+
 And so we took what they were doing and flipped it 180 degrees… and gave it steroids,
 And in doing so we created a system for the most fun and efficient way of learning a language!
+
 No more mindless memorization of words that don’t compel us to learn them in the first place. Why memorize mindless jargon when you could be sucked into your favorite book, video, or article? 
+
 Why memorize mindless jargon when you have a reason behind every word you read?
 
 ### Testimonials
 
 Of course, don’t take our word for it. Here are but a few of many testimonials that detail how Lingq has increased their vocabulary and exceeded their expectations:
- As a language freak I have invested a lot of time and money in language learning materials during the last ten years and, for me, NO system is as complete as LingQ. A full Pimsleur course can cost up to US$900 (per language) and leaves the learner with a limited vocabulary. LingQ, however, genuinely offers the opportunity for the user to MASTER as many as 10 languages. The site offers a range of content, direct translation of new words, access to tutors, help with writing and speaking and a network of supportive fellow language learners. The best thing about the LingQ system is that there is a range of content, so you can always work with content that interests and motivates you.  
+ As a language freak I have invested a lot of time and money in language learning materials during the last ten years and, for me, NO system is as complete as LingQ. 
+ 
+ A full Pimsleur course can cost up to US$900 (per language) and leaves the learner with a limited vocabulary. LingQ, however, genuinely offers the opportunity for the user to MASTER as many as 10 languages. 
+ 
+ The site offers a range of content, direct translation of new words, access to tutors, help with writing and speaking and a network of supportive fellow language learners. 
+ 
+ The best thing about the LingQ system is that there is a range of content, so you can always work with content that interests and motivates you.  
 
 --adrian rodriguez 
 Sweden 
 
-From the standpoint of someone “in the business” (I’ve been a college professor of German for 20 years), I’m afraid that Steven Krashen’s ideas, while being received initially with some enthusiasm, have been largely ignored (or at best given lip service) both by textbook publishers and writers and by those of us engaged in the classroom. As a foreign language teacher who appreciates these ideas (and uses them – I’m learning Russian with LinqQ and have taught myself other languages, pre-LingQ, following a similar learning philosophy and method – I’ve been deeply impressed at how Steve (Kaufmann) has appropriated these somewhat theoretical ideas into this website to a far greater extent than it has been done in the profession. As a teacher, I am now constantly challenged to remake my classroom in order to do the same. About 7 years ago, I realized that if I were someone wanting to learn German, I’d never take my own class, and since then I’ve been experimenting.  
+From the standpoint of someone “in the business” (I’ve been a college professor of German for 20 years), I’m afraid that Steven Krashen’s ideas, while being received initially with some enthusiasm, have been largely ignored (or at best given lip service) both by textbook publishers and writers and by those of us engaged in the classroom.
+
+As a foreign language teacher who appreciates these ideas (and uses them – I’m learning Russian with LinqQ and have taught myself other languages, pre-LingQ, following a similar learning philosophy and method – I’ve been deeply impressed at how Steve (Kaufmann) has appropriated these somewhat theoretical ideas into this website to a far greater extent than it has been done in the profession. 
+
+As a teacher, I am now constantly challenged to remake my classroom in order to do the same. About 7 years ago, I realized that if I were someone wanting to learn German, I’d never take my own class, and since then I’ve been experimenting.  
+
 --jim
 Usa 
 
 ### With Respect
 
 So we say yes, dabble with those apps, the hot craze of today. It’s fun. Learn what you can from them and enjoy them. 
+
 But just remember, 
+
 It won’t get you where you want to go. 
 
 That’s where we come in. 
 
 But we must make one thing clear: 
+
 This program is not for learners who are just beginning. 
+
 This is for learners that are ready for the next level,
+
 for learners that are done with the introductory and beginner materials of yesterday. 
 
 Don’t buy this if you are not ready. This is a serious language learning tool that is very powerful yet easy to use. 
 We urge language learners who are ready to try it now because the modern language learner deserves to know how easy it is to be speaking with the Spanish, French, Chinese, and the Arab world using the latest learning technology and pedagogy, rather than wasting their time like I did, blinded by the sea of information. 
+
 Thankfully, they offer a one-week trial period for new users to make sure they’re ready and that this product is right for them. 
+
 So choose whichever 15+ languages offer but remember that we only offer 100 trials every month, so act now so you can reserve your spot at Le Cinq. 
 
