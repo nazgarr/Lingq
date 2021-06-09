@@ -36,6 +36,7 @@ And so I asked myself, why doesn’t the language learning community talk about 
 People love talking about the languages they’re learning, what they’re going to do in Italy, who their going to meet in France, what they’re going to eat in their favorite restaurant in Germany, and how Spanish changed their lives.
 And that’s awesome!
 We love how something like language can give us new experiences and bring us all together.
+
 But they don’t want to talk about the underbelly, the voice in the back of everyone’s heads: The great challenge it actually is to get there and achieve fluency.
 Sure, we can hear a flash of small phrases and say a couple words in the heat of passion. 
 But let’s be real.
